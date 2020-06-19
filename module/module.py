@@ -11,7 +11,7 @@ import codecs
 
 class modules:
   def __init__(self):
-    self.driver = webdriver.Chrome()
+    pass
 
   def format_changer(self):
     # Changing file format 
@@ -22,6 +22,9 @@ class modules:
     file_Shift_JIS = codecs.open(Shift_JIS_csv_path, "r", "Shift_JIS")
     file_utf = codecs.open(utf8_csv_path, "w", "utf-8")
     for row in file_Shift_JIS:
-        file_utf.write(row)
+      file_utf.write(row)
     file_Shift_JIS.close()
     file_utf.close()
+
+  def login(self, driver):
+    self.driver = driver
