@@ -3,7 +3,7 @@ Robotic Process Automation program for real estate value analysis by using AI cl
 
 # Requirement
 * Chrome Browser(version: 83.0.4103.106)
-* Python 3.6.9
+* Python 3.7.6
 * selenium == 3.141.0
 * pyautogui == 0.9.50
 * pyperclip == 1.8.0
@@ -40,12 +40,16 @@ This Robotic Process Automation program is not related to [Leeways Inc.](https:/
 
 If you have any questions, please　contact me at the email address written in Author section.
 
+This program is guaranteed to work as of July 15, 2020 and may cease to work due to updates to the HP layout.
+
+Also, I am not responsible for any damage or disadvantage caused by the use of this program.
+
 # Author
 * Yusuke Ochiai
 * Venture capitalist interns
-* email: ochiai@comogu.com
+* contact email: ochiai@comogu.com
 
 # Comment
 This Robotic Process Automation program is expected to improve business efficiency.
 
-Please note that you must register for the service before you can use it.
+Please note that you must register for the service before you can use this program.
