@@ -5,9 +5,11 @@ Robotic Process Automation program for real estate value analysis by using AI cl
 * Chrome Browser(version: 83.0.4103.106)
 * Python 3.6.9
 * selenium == 3.141.0
+* pyautogui == 0.9.50
+* pyperclip == 1.8.0
 * chrome driver(Must match the version of Chrome you are using.)
 
-Environments under [Anaconda for Windows](https://www.anaconda.com/products/individual) and [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja) were tested.
+Environments under [Anaconda for Windows](https://www.anaconda.com/products/individual) was tested.
 
 # Installation
 Install required libraries with pip command.
@@ -21,26 +23,16 @@ Please install chrome driver from [Downloads - ChromeDriver - WebDriver for Chro
 # Usage
 ※The following instructions assume the Google Colaboratory environment.
 
-1. Please fill out data_Shift_JIS.csv. 
+1. Please download zip file and extract it.
+
+2. Then, fill out data_Shift_JIS.csv. 
 
    Note that the information on the bottom row will be loaded.
-
-2. Open "main.jpynb" and clone this repository by following command.
-
-```bash
-!git clone https://github.com/MIDET-tech/RPA_for_Gate..git
-```
-
-3. Move to RPA_for_Gate. directory.
+   
+3.Run main.py from Anaconda prompt(Anaconda3).
 
 ```bash
-cd /content/RPA_for_Gate.
-```
-
-4.Run main.py
-
-```bash
-!python3 main.py 
+(base) C:\Users\username>python main.py 
 ```
 
 # Note
