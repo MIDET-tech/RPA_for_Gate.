@@ -40,7 +40,7 @@ This Robotic Process Automation program is not related to [Leeways Inc.](https:/
 
 If you have any questions, please　contact me at the email address written in Author section.
 
-This program is guaranteed to work as of July 15, 2020 and may cease to work due to updates to the HP layout.
+Please note that this program may not work due to changes in specifications.
 
 Also, I am not responsible for any damage or disadvantage caused by the use of this program.
 
