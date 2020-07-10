@@ -20,6 +20,8 @@ pip install -r requirements.txt
 
 Please install chrome driver from [Downloads - ChromeDriver - WebDriver for Chrome](https://chromedriver.chromium.org/downloads).
 
+Make sure to include the ChromeDriver location in your PATH environment variable.
+
 # Usage
 ※The following instructions assume the Google Colaboratory environment.
 
